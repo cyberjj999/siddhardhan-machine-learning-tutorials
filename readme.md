@@ -1,4 +1,4 @@
-# Project Title
+# Siddhardhan YouTube Tutorials
 
 A series of machine learning projects taught by Siddhardhan (YouTuber)
 
